@@ -11,8 +11,6 @@ Lists:
 5. F_i_v_e
 6. Six
 8. Eight
-9. Nine
-10. Ten
 ## Изображения
 Picture:
 ![Image Test](img1.png)
